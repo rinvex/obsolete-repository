@@ -4,6 +4,8 @@
 
 **Rinvex Repository** is a simple, intuitive, and smart implementation of Active Repository with extremely flexible & granular caching system for Laravel, used to abstract the data layer, making applications more flexible to maintain.
 
+⚠️ This package is **abandoned** and no longer maintained. The author suggests using the **[rinvex/laravel-repositories](https://github.com/rinvex/laravel-repositories)** package instead. ⚠️
+
 [![Packagist](https://img.shields.io/packagist/v/rinvex/repository.svg?label=Packagist&style=flat-square)](https://packagist.org/packages/rinvex/repository)
 [![Scrutinizer Code Quality](https://img.shields.io/scrutinizer/g/rinvex/repository.svg?label=Scrutinizer&style=flat-square)](https://scrutinizer-ci.com/g/rinvex/repository/)
 [![Code Climate](https://img.shields.io/codeclimate/github/rinvex/repository.svg?label=CodeClimate&style=flat-square)](https://codeclimate.com/github/rinvex/repository)
@@ -111,6 +113,12 @@ class BarController
 **Unless you need to dig deeper & know some advanced stuff, you can skip the following steps! :wink:**
 
 ---
+
+
+💡 If you are looking for **Laravel 5.5** support, use the `dev-develop` branch. It's stable but not tagged yet since test suites isn't complete. 💡
+
+
+⚠️ [This package is looking for new maintainer, read details or takeover if interested!](https://github.com/rinvex/repository/issues/156) ⚠️
 
 
 ## Table Of Contents

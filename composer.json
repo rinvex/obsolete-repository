@@ -79,6 +79,7 @@
             ]
         }
     },
+    "abandoned": "rinvex/laravel-repositories",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
