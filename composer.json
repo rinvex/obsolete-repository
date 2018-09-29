@@ -59,6 +59,7 @@
             "dev-master": "2.0-dev"
         }
     },
+    "abandoned": "rinvex/laravel-repositories",
     "minimum-stability": "dev",
     "prefer-stable": true
 }
